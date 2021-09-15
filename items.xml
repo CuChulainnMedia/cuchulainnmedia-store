@@ -15,7 +15,7 @@
 <cat>1. Cú Chulainn Apps</cat>
 <name>Setanta</name>
 <source>http://bit.ly/setantaxc</source>
-<imge>https://i.imgur.com/aQbJeCu.png</imge>
+<imge></imge>
 <desc>Updated: 02-Sep-2021 [97.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation.</desc>
 <vers/>
 <vidz/>
@@ -23,8 +23,8 @@
 </item>
 <item>
 <id>3</id>
-<cat>2. Recommended Players</cat>
-<name>iMPlayer v1.8.1.3</name>
+<cat>2. Premium Apps</cat>
+<name>Ferdia XC</name>
 <source>https://nwgroup.net/downloads/iMPlayer_1.8.1.3.apk</source>
 <imge>https://i.imgur.com/fXG6QCy.png</imge>
 <desc>Updated: 14-Feb-2021 [34.0mb] iMPlayer was developed to be the ultimate IPTV player, with unbeatable interface, smoothness and features that will put other apps to shame.</desc>
@@ -34,8 +34,8 @@
 </item>
 <item>
 <id>4</id>
-<cat>2. Recommended Players</cat>
-<name>IPTV Smarters Pro v2.2.6</name>
+<cat>2. Premium Apps</cat>
+<name>Ferdia Smarters</name>
 <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_2.2.6.apk</source>
 <imge>https://i.imgur.com/K22qDGn.png</imge>
 <desc>Updated: 18-Feb-2021 [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
@@ -45,8 +45,8 @@
 </item>
 <item>
 <id>5</id>
-<cat>2. Recommended Players</cat>
-<name>XCIPTV Player v5.0.1</name>
+<cat>2. Premium Apps</cat>
+<name>Ferdia Cinema</name>
 <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Clean.apk</source>
 <imge>https://i.imgur.com/T2wF1HS.png</imge>
 <desc>Updated: 23-Apr-2021 [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
@@ -56,7 +56,7 @@
 </item>
 <item>
 <id>6</id>
-<cat>3. IPTV Smarters Pro</cat>
+<cat>3. Sports Team Apps</cat>
 <name>Default v2.2.6 (Recommended)</name>
 <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_2.2.6.apk</source>
 <imge>https://i.imgur.com/K22qDGn.png</imge>
@@ -67,7 +67,7 @@
 </item>
 <item>
 <id>7</id>
-<cat>3. IPTV Smarters Pro</cat>
+<cat>3. Sports Team Apps</cat>
 <name>Netflix Theme v2.2.4</name>
 <source>https://nwgroup.net/downloads/Smarters_2.2.4-Netflix.apk</source>
 <imge>https://i.imgur.com/dLkIGAG.jpg</imge>
@@ -78,7 +78,7 @@
 </item>
 <item>
 <id>8</id>
-<cat>3. IPTV Smarters Pro</cat>
+<cat>3. Sports Team Apps</cat>
 <name>Sky Theme v2.2.4</name>
 <source>https://nwgroup.net/downloads/Smarters_2.2.4-SkyHD.apk</source>
 <imge>https://i.imgur.com/VnvoS9K.png</imge>
@@ -89,7 +89,7 @@
 </item>
 <item>
 <id>9</id>
-<cat>3. IPTV Smarters Pro</cat>
+<cat>3. Sports Team Apps</cat>
 <name>Virgin Theme v2.2.4</name>
 <source>https://nwgroup.net/downloads/Smarters_2.2.4(SuperMedia).apk</source>
 <imge>https://i.imgur.com/vaZbdZw.png</imge>
